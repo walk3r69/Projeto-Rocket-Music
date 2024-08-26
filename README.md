@@ -1,2 +1,7 @@
 # Projeto-Rocket-Music
-O Projeto Rocket Music é uma plataforma inovadora que permite aos amantes da música rankear músicas e álbuns, tanto atuais quanto clássicos.
+O Projeto Rocket Music é uma plataforma inovadora que permite aos amantes da música rankear músicas e álbuns, tanto atuais quanto clássicos, por meio de votação popular. A proposta central do Rocket Music é democratizar a avaliação musical, colocando o poder nas mãos dos próprios ouvintes, que podem expressar suas opiniões e influenciar os rankings.
+
+Com o Rocket Music, você pode se conectar com amigos e com uma comunidade global apaixonada por música, onde todos compartilham uma paixão comum: descobrir e avaliar obras musicais. A plataforma oferece a oportunidade de explorar novos lançamentos e revisitar clássicos, proporcionando uma experiência de descoberta musical contínua. Além de votar e rankear, os usuários podem compartilhar listas de reprodução personalizadas, criar debates sobre seus álbuns favoritos e ficar por dentro das tendências musicais.
+
+Embora a plataforma não ofereça a opção de ouvir as músicas diretamente, ela permite que os usuários favoritem faixas e criem listas de desejos. Essas listas podem ser consultadas posteriormente, facilitando a busca das músicas em seus serviços de streaming favoritos. Assim, o Rocket Music atua como um hub para descoberta e curadoria musical, conectando pessoas com interesses semelhantes e oferecendo uma experiência rica e interativa para os apaixonados por música. Quer você seja um crítico ávido ou apenas alguém que adora descobrir novos sons, o Rocket Music tem algo a oferecer, tornando-se um ponto de encontro essencial para qualquer entusiasta da música.
+
